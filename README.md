@@ -13,3 +13,4 @@ requirements = express , mongoose , jwt(jsonwebtoken) , cookie-parser , bcrypt ,
 9   file name  .gitignore
 
 10  vscode extension name = gkeep to add blank folders in git
+11  to use this extension command for windows is = Ctrl + Shift + P
