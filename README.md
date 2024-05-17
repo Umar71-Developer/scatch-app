@@ -11,3 +11,5 @@ requirements = express , mongoose , jwt(jsonwebtoken) , cookie-parser , bcrypt ,
 
 8   file name  .env
 9   file name  .gitignore
+
+10  vscode extension name = gkeep to add blank folders in git
